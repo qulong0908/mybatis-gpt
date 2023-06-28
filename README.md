@@ -1,2 +1,2 @@
-# mybtais-gpt
-no more repetitive work!mybtais-gpt!
+# mybatis-gpt
+no more repetitive work!mybatis-gpt!
